@@ -1,4 +1,5 @@
 # Taken from Udacity Face generator Project
+!pip install request
 import math
 import os
 import hashlib
